@@ -18,13 +18,20 @@ This system allows users to search for any book against Googles publicly availab
         
 ## Technologies
 
-We used Express.js API and configured it to use Mongoose to interact with a Mongo database.<br />
-To deploy this app to heroku we connect it with a Mongo Altas Cluster instance <br />
-We also proved a manifest.json which contains assets for offline viewing
+* [NodeJS](https://nodejs.org/en)
+* [Express](https://expressjs.com/)
+* [MongoDB](https://www.mongodb.com/cloud/atlas)
+* [Mongoose](https://mongoosejs.com/)
+* [Apollo](https://www.apollographql.com/)
+* [React](https://reactjs.org/)
+* [GraphQL](https://graphql.org/)
+* [Google Book API](https://developers.google.com/books)
 
-### Demo
-
+## Demo
 deployed-app : [Heroku App](https://reading-book-list.herokuapp.com)
+
+### screenshot
+<img src = "./assets/saved_books.png" />
 
 ## Contributing
 
@@ -32,7 +39,7 @@ Please contribute safely
 
 ## Questions
 ### Where is my GitHub repository for this project?
-[GitHub](https://github.com/chattean/)
+[GitHub](https://github.com/chattean/book-search-engine)
 
 ### How to get in Contact with me if you have additional questions?
 
